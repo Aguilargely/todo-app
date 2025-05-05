@@ -85,3 +85,7 @@ input, textarea {
   text-decoration: line-through;
   color: #999;
 }
+
+.header-bg {
+  background: #6d00b6 !important;
+}
